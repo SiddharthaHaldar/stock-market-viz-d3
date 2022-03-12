@@ -1,0 +1,14 @@
+Main Idea is  -> Historical Trends 
+
+Choosing "Historical stock market crashes"
+
+Dataset selection -> Have to find Kaggle or Stock based dataset, if we cannot find the appropriate dataset we can formulate our own dataset.
+
+1. select crashes
+
+2. Finding types of viz ideas to ideate for these crashes to understand analytically what is happening. 
+
+3. Design -> Timeline at bottom ("Crash based timeline"), Will show multple types of different graph assocaited during that time peroid. 
+             Create a homepage which has ->  Map, Time line slider, Global Analysis
+             Selecting a particular Stock exchange -> 3 different sets of analysis, Time line slider, back button to main timeline
+             Extra - including year based timeline instead of crash based timeline.
