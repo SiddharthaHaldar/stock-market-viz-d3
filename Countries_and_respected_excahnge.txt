@@ -6,3 +6,5 @@ Countries and respected excahnge
 4. S&P/TSX
 5. FTSE 100
 6. Nikkei 225 / Jp 225
+
+https://pypi.org/project/yfinance/
