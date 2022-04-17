@@ -8,3 +8,27 @@ Countries and respected excahnge
 6. Nikkei 225 / Jp 225
 
 https://pypi.org/project/yfinance/
+
+S&P500
+Microsoft
+General Electric
+Exxon
+Wal-Mart
+Pfizer
+Citigroup
+AIG
+Johnson & Johnson
+IBM
+Cisco
+
+HK50
+Tencent Holdings
+ICBC HK
+China Construction Bank
+Bank Of China HK
+PetroChina
+China Mobile
+Ping An Insurance
+HSBC Holdings
+AIA Group
+China Life Insurance
