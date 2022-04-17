@@ -22,13 +22,64 @@ IBM
 Cisco
 
 HK50
-Tencent Holdings
-ICBC HK
-China Construction Bank
-Bank Of China HK
-PetroChina
-China Mobile
-Ping An Insurance
-HSBC Holdings
-AIA Group
-China Life Insurance
+700	    Tencent Holdings	
+1398	ICBC HK	
+939	    China Construction Bank	
+3988	Bank Of China HK	
+857	    PetroChina	
+941	    China Mobile	
+2318	Ping An Insurance	
+5	    HSBC Holdings	
+1299	AIA Group	
+2628	China Life Insurance	
+
+
+NIFTY50
+RPWR	Reliance Power Ltd.
+TCS	    TCS
+HDFCB	HDFC Bank
+INFO	Infosys
+HUVR	Hindustan Unilever
+ICICIBC	ICICI Bank
+SBIN	State Bank of India
+HDFC	Housing Development
+BAF	    Bajaj Finance
+BHARTI	Bharti Airtel
+
+
+TSX
+RY	    Royal Bank of Canada	
+TD	    TD Bank	
+ENB	    Enbridge	
+CNR	    Canadian National Railway	
+BAMA	Brookfield	
+BNS	    Bank of Nova Scotia	
+SHOP	Shopify Inc	
+BMO	    Bank Of Montreal	
+CP	    Canadian Pacific Railway	
+CNQ	    Canadian Natural Resources	
+
+
+GB100
+AZN	    AstraZeneca	
+RDSA	Royal Dutch Shell	
+BHPB	BHP Group	
+RIO	    Rio Tinto	
+HSBA	HSBC Holdings	
+ULVR	Unilever	
+GSK	    GlaxoSmithKline	
+DGE	    Diageo	
+BATS	British American Tobacco	
+BP	    BP	
+
+JP225
+7203	Toyota Motor	
+6758	Sony	
+9432	Nippon Telegraph & Telephone	
+8306	Mitsubishi UFJ Financial	
+9433	KDDI	
+8035	Tokyo Electron	
+6098	Recruit Holdings	
+9984	Softbank	
+4063	Shin-etsu Chemical	
+9983	Fast Retailing	
