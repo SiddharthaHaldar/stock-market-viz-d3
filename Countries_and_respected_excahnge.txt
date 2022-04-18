@@ -1,11 +1,11 @@
 Countries and respected excahnge
 
-1. HK50
-2. S&P500
-3. NIFTY50
-4. S&P/TSX
-5. FTSE 100
-6. Nikkei 225 / Jp 225
+1. HK50 HK
+2. S&P500 No
+3. NIFTY50 NS
+4. TSX TO
+5. GB100 L
+6. JP225 T
 
 https://pypi.org/project/yfinance/
 
@@ -23,14 +23,14 @@ IBM IBM
 CSCO Cisco
 
 HK50 HK
-700 Tencent Holdings	
+0700 Tencent Holdings	
 1398 ICBC HK	
-939 China Construction Bank	
+0939 China Construction Bank	
 3988 Bank Of China HK	
-857 PetroChina	
-941 China Mobile	
+0857 PetroChina	
+0941 China Mobile	
 2318 Ping An Insurance	
-5 HSBC Holdings	
+0005 HSBC Holdings	
 1299 AIA Group	
 2628 China Life Insurance	
 
