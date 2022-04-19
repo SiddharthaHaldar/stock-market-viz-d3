@@ -36,16 +36,16 @@ HK50 HK
 
 
 NIFTY50 NS
-RPWR Reliance Power Ltd.
+RELIANCE Reliance Ltd.
 TCS TCS
-HDFCB HDFC Bank
-INFO Infosys
-HUVR Hindustan Unilever
-ICICIBC ICICI Bank
+HDFCBANK HDFC Bank
+INFY Infosys
+HINDUNILVR Hindustan Unilever
+ICICIBANK ICICI Bank
 SBIN State Bank of India
 HDFC Housing Development
-BAF Bajaj Finance
-BHARTI Bharti Airtel
+BAJFINANCE Bajaj Finance
+BHARTIARTL Bharti Airtel
 
 
 TSX TO
@@ -53,7 +53,7 @@ RY Royal Bank of Canada
 TD TD Bank	
 ENB Enbridge	
 CNR Canadian National Railway	
-BAMA Brookfield	
+BAM-A Brookfield	
 BNS Bank of Nova Scotia	
 SHOP Shopify Inc	
 BMO Bank Of Montreal	
@@ -63,8 +63,8 @@ CNQ Canadian Natural Resources
 
 GB100 L
 AZN AstraZeneca	
-RDSA Royal Dutch Shell	
-BHPB BHP Group	
+SHEL Royal Dutch Shell	
+BARC Barclays
 RIO Rio Tinto	
 HSBA HSBC Holdings	
 ULVR Unilever	
