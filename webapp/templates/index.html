@@ -7,57 +7,67 @@
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
+    <div id="header" style="display: flex;">
+        <div onclick="goToHome(this);" style="display: flex;">
+            <img src="https://dataknyts-nyt-dump.s3.us-west-2.amazonaws.com/tbc-static/home.svg" onclick="goToHome(this);" style="padding-left:10px;"> 
+            <h2 style="padding-left:10px;padding-top:10px;" id="header_home">Stock Market Viz</h2>
+        </div>
+        <div id="vizName">
+            <h1>Timeline of Major Events</h1>
+        </div>
+        <div style="width:50px;"></div>
+        <div>
+            <div class="dropdown" style="display: none;padding-right:20px;">
+                <button class="dropbtn" style="border-radius: 10px;">Select <span>▼</span></button>
+                <div class="dropdown-content">
+                    <a href="#" id="dropdown_global">Global</a>
+                    <a href="#" id="dropdown_regional">Regional</a>
+                </div>
+            </div>
+        </div>
+    </div>
 	<div class="timeline">
 		<ul>
-			<li>
+			<li onclick="load_viz1_global('Financial-US-Global')">
 				<span>3rd January 2020</span>
 				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
+					<h3>US Financial Crash</h3>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 					</p>
 				</div>
 			</li>
-			<li>
+			<li onclick="load_viz2_global('Japan-Tsunami-Global')">
 				<span>21st Jun 2019</span>
 				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
+					<h3>Japan Tsunami</h3>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p>
 				</div>
 			</li>
-			<li>
+			<li onclick="load_viz3_global('Chinese-Crash-Global')">
 				<span>15th April 2018</span>
 				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
+					<h3>Chinese Financial Crash</h3>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p>
 				</div>
 			</li>
-			<li>
+			<li onclick="load_viz4_global('Covid-19-Global')">
 				<span>22nd Mars 2017</span>
 				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
+					<h3>Covid-19</h3>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
 					</p>
 				</div>
 			</li>
-			<li>
+			<li onclick="load_viz5_global('Russia-Ukraine-Global')">
 				<span>22nd Mars 2017</span>
 				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
-					<p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
-					</p>
-				</div>
-			</li>
-			<li>
-				<span>22nd Mars 2017</span>
-				<div class="content">
-					<h3>What Is Lorem Ipsum?</h3>
+					<h3>Russia Ukraine Conflict</h3>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
 					</p>
@@ -65,6 +75,30 @@
 			</li>
 		</ul>
 	</div>
+
+    <!--<div id="tablueaVizes">
+
+    </div>
+    <div class='tableauPlaceholder' id='viz11' style='position: relative;padding-left: 140px;display: none;'>
+        <noscript>
+            <a href='#'>
+                <img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;QF&#47;QFCK3BG7F&#47;1_rss.png' style='border: none' />
+            </a>
+        </noscript>
+        <object class='tableauViz'  style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
+            <param name='path' value='shared&#47;QFCK3BG7F' /> <param name='toolbar' value='yes' />
+            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;QF&#47;QFCK3BG7F&#47;1.png' /> 
+            <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
+            <param name='filter' value='publish=yes' />
+        </object>
+    </div>                
+    <div class='tableauPlaceholder' id='viz22' style='position: relative;padding-left: 140px;display: none;'></div>
+    <div class='tableauPlaceholder' id='viz33' style='position: relative;padding-left: 140px;display: none;'></div>
+    <div class='tableauPlaceholder' id='viz44' style='position: relative;padding-left: 140px;display: none;'></div>
+    <div class='tableauPlaceholder' id='viz55' style='position: relative;padding-left: 140px;display: none;'></div>
+    <div class='tableauPlaceholder' id='viz66' style='position: relative;padding-left: 140px;display: none;'></div>-->
 
 </body>
 </html>
