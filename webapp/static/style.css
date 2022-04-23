@@ -127,9 +127,13 @@ body{
 .timeline ul li:hover{
 	background-color:#071f2a;
 }
-.timeline ul li:hover:before{
-	background-color:#00fff7;
-	box-shadow:0px 0px 10px 2px #00fff7;
+.red_col:hover:before{
+	background-color:#fe1919;
+	box-shadow:0px 0px 10px 2px #fe1919;
+}
+.green_col:hover:before{
+	background-color:#42f83f;
+	box-shadow:0px 0px 10px 2px #42f83f;
 }
 @media (max-width:300px){
 	.timeline{
